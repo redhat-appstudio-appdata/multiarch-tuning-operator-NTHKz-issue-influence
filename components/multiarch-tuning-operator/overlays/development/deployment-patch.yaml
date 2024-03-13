@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/multiarch-tuning-ope-tenant/multiarch-tuning-operator/multiarch-tuning-operator@sha256:146882dd1e4dfde33a96ef83adddb7a6b23314a22c472090efda2077d7173904
+      - image: quay.io/redhat-user-workloads/multiarch-tuning-ope-tenant/multiarch-tuning-operator/multiarch-tuning-operator@sha256:9e0a14311ae40821dbb83359b5d1037ba06469b599c79241f2eb0a55d4dbbe43
         name: container-image
         resources: {}
 status: {}
